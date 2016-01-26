@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noxray",
+  "name": "No Xray",
+  "description": "Texturepack checker",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MultiMote"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
